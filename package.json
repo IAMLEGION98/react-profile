@@ -1,6 +1,7 @@
 {
-  "homepage": ".",
+  
   "name": "myspace",
+  "homepage": "http://iamlegion98.github.io/my-profile",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
